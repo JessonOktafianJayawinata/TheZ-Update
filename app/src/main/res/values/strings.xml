@@ -3,6 +3,7 @@
 
     <string name="artikel_name">Judul Artikel</string>
     <string name="description">Deskripsi</string>
+    <string name="thez">TheZ</string>
 
     <string-array name="data_name">
         <item>Artificial Intelligence (AI)</item>
@@ -31,28 +32,31 @@
     </string-array>
 
     <integer-array name="data_photo">
-                <item>@drawable/ai</item>
-                <item>@drawable/komputer</item>
-                <item>@drawable/iot</item>
-                <item>@drawable/sinyal5g</item>
-                <item>@drawable/energi</item>
-                <item>@drawable/rpa</item>
-                <item>@drawable/meta</item>
-                <item>@drawable/ar</item>
-                <item>@drawable/blockchain</item>
-                <item>@drawable/vr</item>
+        <item>@drawable/ai</item>
+        <item>@drawable/komputer</item>
+        <item>@drawable/iot</item>
+        <item>@drawable/sinyal5g</item>
+        <item>@drawable/energi</item>
+        <item>@drawable/rpa</item>
+        <item>@drawable/meta</item>
+        <item>@drawable/ar</item>
+        <item>@drawable/blockchain</item>
+        <item>@drawable/vr</item>
     </integer-array>
 
-<!--    <string-array name="data_photo">-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
-<!--    </string-array>-->
+    <string-array name="data_date">
+        <item>15 Januari 2023</item>
+        <item>17 Januari 2023</item>
+        <item>24 Januari 2023</item>
+        <item>5 Febuari 2023</item>
+        <item>14 Febuari 2023</item>
+        <item>20 Febuari 2023</item>
+        <item>21 Fabuari 2023</item>
+        <item>25 Febuari 2023</item>
+        <item>3 Maret 2023</item>
+        <item>7 Maret 2023</item>
+    </string-array>
+
+    <string name="title_activity_about_me">AboutMe</string>
+
 </resources>
