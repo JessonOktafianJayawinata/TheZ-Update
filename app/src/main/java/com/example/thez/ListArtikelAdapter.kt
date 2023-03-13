@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 
 class ListArtikelAdapter(private val listArtikel: ArrayList<Artikel>) :RecyclerView.Adapter<ListArtikelAdapter.ListViewHolder>() {
 
@@ -17,6 +18,7 @@ class ListArtikelAdapter(private val listArtikel: ArrayList<Artikel>) :RecyclerV
     override fun onBindViewHolder(holder: ListViewHolder, position: Int) {
         val (name, description, photo) = listArtikel[position]
         holder.imgPhoto.setImageResource(photo)
+//        Glide.with(holder.itemView.context).load(photo).into(holder.imgPhoto)
         holder.tvName.text = name
         holder.tvDescription.text = description
     }

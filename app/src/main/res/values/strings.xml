@@ -30,16 +30,29 @@
         <item>Realitas virtual (VR) adalah teknologi yang telah mengalami perkembangan pesat dalam beberapa tahun terakhir. Pada tahun 2023, VR diperkirakan akan menjadi semakin penting dan meluas dalam berbagai sektor dan industri. Salah satu perkembangan utama dalam teknologi VR pada tahun 2023 adalah adopsi massal di sektor hiburan. VR dapat memberikan pengalaman yang lebih mendalam dan interaktif untuk pengguna dalam berbagai bentuk hiburan, seperti game, film, dan acara musik. Dengan VR, pengguna dapat merasakan seperti berada di dalam permainan atau film tersebut, membuat pengalaman tersebut semakin nyata dan intens.</item>
     </string-array>
 
-    <string-array name="data_photo">
-        <item>@drawable/ai</item>
-        <item>@drawable/komputer</item>
-        <item>@drawable/iot</item>
-        <item>@drawable/sinyal5g</item>
-        <item>@drawable/energi</item>
-        <item>@drawable/rpa</item>
-        <item>@drawable/meta</item>
-        <item>@drawable/ar</item>
-        <item>@drawable/blockchain</item>
-        <item>@drawable/vr</item>
-    </string-array>
+    <integer-array name="data_photo">
+                <item>@drawable/ai</item>
+                <item>@drawable/komputer</item>
+                <item>@drawable/iot</item>
+                <item>@drawable/sinyal5g</item>
+                <item>@drawable/energi</item>
+                <item>@drawable/rpa</item>
+                <item>@drawable/meta</item>
+                <item>@drawable/ar</item>
+                <item>@drawable/blockchain</item>
+                <item>@drawable/vr</item>
+    </integer-array>
+
+<!--    <string-array name="data_photo">-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+        <!--        <item>https://cdn.myanimelist.net/images/anime/1208/94745.jpg</item>-->
+<!--    </string-array>-->
 </resources>
